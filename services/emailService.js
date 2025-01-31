@@ -40,4 +40,4 @@ const sendRegistrationEmail = async (recipientEmail) => {
 
 // Call the function with a test recipient email
 sendRegistrationEmail('test@example.com');
-module.exports={sendRegistrationEmail}
+module.exports={sendRegistrationEmail};
